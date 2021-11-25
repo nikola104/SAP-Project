@@ -1,0 +1,3 @@
+{Brand=12 pro, Model=Iphone, Description=very good phone for everyday=Price=2000.0}
+{Brand=Samsung, Model=Kenefa, Description=very bad =Price=100.0}
+{Brand=ferfg, Model=erf, Description=erf=Price=789.0}

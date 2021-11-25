@@ -1,0 +1,3 @@
+{Brand=asda, Model=asdasd, Description=asdasd=Price=1222.0}
+{Brand=rtegtre, Model=tregreg, Description=retgr=Price=566.0}
+{Brand=ferfg, Model=erf, Description=erf=Price=789.0}

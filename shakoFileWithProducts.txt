@@ -1,0 +1,5 @@
+{Brand=11, Model=iphone, Description=nai qkiq iphone na sveta=Price=500.0}
+{Brand=samsung, Model=11, Description=better than iphone=Price=900.0}
+{Brand=12, Model=Iphone, Description=Better than samsung=Price=1900.0}
+{Brand=asda, Model=asdasd, Description=asdasd=Price=1222.0}
+{Brand=rtegtre, Model=tregreg, Description=retgr=Price=566.0}
